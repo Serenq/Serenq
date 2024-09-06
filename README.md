@@ -27,3 +27,4 @@
 - [Калькулятор](https://serenq.github.io/karkulator/)
 - [Игральные Кости](https://serenq.github.io/dice/)
 - [ИГРА - Инопланетное вторжение](https://serenq.github.io/game-galaxydefender/)
+- [Игра - Змейка](https://serenq.github.io/game-snake/)
